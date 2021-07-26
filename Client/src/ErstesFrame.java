@@ -50,7 +50,7 @@ import java.awt.List;
 import javax.swing.JSplitPane;
 import javax.swing.border.BevelBorder;
 import java.awt.event.MouseAdapter;
-
+//Kommentar hinschreiben
 public class ErstesFrame extends JFrame implements ActionListener {
 
 	/**
